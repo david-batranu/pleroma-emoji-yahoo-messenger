@@ -2,6 +2,7 @@
     "ym": {
         "src_sha256": "95f0fd16d32e3c4518e69de45e1451266c9e0d64466cf4407ed80e731f85fcbf",
         "src": "https://raw.githubusercontent.com/david-batranu/pleroma-emoji-yahoo-messenger/master/emoji.ym.zip",
+        "license": "CC-BY-2.5",
         "homepage": "https://github.com/david-batranu/pleroma-emoji-yahoo-messenger",
         "files": "ym.json",
         "description": "Old Yahoo Messenger emoticons!"

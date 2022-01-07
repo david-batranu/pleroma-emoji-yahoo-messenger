@@ -197,6 +197,9 @@
     },
     "pack": {
         "description": "Old Yahoo Messenger emoticons!",
+        "license": "CC-BY-2.5",
+        "fallback-src-sha256": "95f0fd16d32e3c4518e69de45e1451266c9e0d64466cf4407ed80e731f85fcbf",
+        "fallback-src": "https://raw.githubusercontent.com/david-batranu/pleroma-emoji-yahoo-messenger/master/emoji.ym.zip",
         "share-files": true
     }
 }
